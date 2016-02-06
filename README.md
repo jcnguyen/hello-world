@@ -1,2 +1,3 @@
 # hello-world
-Practicing with GitHub
+
+Hallo Welt. Ich übe mit GitHub.
